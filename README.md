@@ -1,2 +1,2 @@
 # scrolltrain
-short-form tasks for video based engagement
+scroll through meaning, train cognition.
